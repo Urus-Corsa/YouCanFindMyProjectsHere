@@ -1,4 +1,3 @@
-
 public class BruteForce {
     public static Utility.Helper find(int[] Arr){
 
