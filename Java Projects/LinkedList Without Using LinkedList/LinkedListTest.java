@@ -1,6 +1,3 @@
-package CS146S21.SinaKalantar.Project1;
-
-
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
