@@ -1,3 +1,5 @@
+# LICENSE.txt provided in Dataset folder of this project.
+#
 # Copyright 2022 Sina Kalantar(Github: Urus-Corsa).
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
