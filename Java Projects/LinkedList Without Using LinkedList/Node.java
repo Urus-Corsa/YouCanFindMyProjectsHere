@@ -1,5 +1,3 @@
-package CS146S21.SinaKalantar.Project1;
-
 /**
  * @author Sina Kalantar
  * @param <T>
