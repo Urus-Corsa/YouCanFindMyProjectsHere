@@ -1,4 +1,3 @@
-package CS146S21.SinaKalantar.Project1;
 
 import java.util.Objects;
 
